@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Kimshubb
-- 👀 I’m currently learning backend software development...
 -Hello there 👋
 I'm Frank,👀 I’m currently learning software engineering at ALX Africa... and I'm so glad to see you on my page!
 
