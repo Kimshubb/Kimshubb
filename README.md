@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Kimshubb
 - 👀 I’m currently learning backend software development...
--  I’m looking to collaborate on EduTech Startups
-- 🌱 I’m currently enrolled in ALX SE cohort 16 program.
-- 💞️ I’m looking to collaborate on HTML,CSS,C, Python  ...
-- 📫 How to reach me ...
+-Hello there 👋
+I'm Frank,👀 I’m currently learning software engineering at ALX Africa... and I'm so glad to see you on my page!
+
 
 
 - [![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=Kimshubb&theme=vue-dark)](https://git.io/streak-stats)
