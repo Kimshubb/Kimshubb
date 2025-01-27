@@ -1,5 +1,6 @@
 -Hello there 👋
 I'm Frank,👀 I’m currently learning software engineering at ALX Africa... and I'm so glad to see you on my page!
+I’m looking to collaborate on EduTech Startups
 
 
 <!---
