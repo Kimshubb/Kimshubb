@@ -1,6 +1,6 @@
 -Hello there 👋
-I'm Frank,👀 I’m currently learning software engineering at ALX Africa... and I'm so glad to see you on my page!
-Lets collaborate and builld together
+I'm Frank,👀 I’m an ALX Africa alumni... and I'm so glad to see you on my page!
+Lets collaborate and builld together.
 
 
 <!---
